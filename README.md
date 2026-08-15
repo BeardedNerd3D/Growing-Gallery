@@ -29,8 +29,8 @@ Need help?
 
 Visit the Support and FAQ pages for assistance.
 
-- [Support](SUPPORT.md)
-- FAQ
-- Privacy Policy
+- [Support](https://beardednerd3d.github.io/Growing-Gallery/SUPPORT)
+- [FAQ](https://beardednerd3d.github.io/Growing-Gallery/FAQS)
+- [Privacy Policy](https://beardednerd3d.github.io/Growing-Gallery/PRIVACY)
 
 © 2026 Growing Gallery
