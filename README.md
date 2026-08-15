@@ -29,7 +29,7 @@ Need help?
 
 Visit the Support and FAQ pages for assistance.
 
-- Support
+- [Support](SUPPORT.md)
 - FAQ
 - Privacy Policy
 
